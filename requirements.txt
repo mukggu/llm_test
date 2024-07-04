@@ -1,0 +1,12 @@
+streamlit==1.32.0
+python-dotenv==1.0.1
+langchain==0.1.12
+langchain-community==0.0.28
+langchain-openai==0.0.8
+anthropic==0.18.1
+PyPDF2==3.0.1
+docx2txt==0.8
+openpyxl==3.1.2
+unstructured==0.12.5
+chromadb==0.4.24
+tiktoken==0.6.0
